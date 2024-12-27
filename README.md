@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python(flask), Javascript, Php**
 
-- 💬 Ask me about **I am a student at Hetic**
+- 😎 **I am a student at Hetic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
